@@ -2,7 +2,7 @@
 Plugin Calculadora de Lead  Este plugin para WordPress oferece uma solução completa e unificada para a geração de leads qualificados através de uma calculadora de orçamento interativa. Originalmente projetado para orçamentos de telhados, sua arquitetura modular permite fácil adaptação para qualquer tipo de serviço ou produto que necessite de um cálculo de custo baseado em parâmetros definidos pelo usuário .
 O plugin se destaca por sua abordagem all-in-one, contendo todo o código (PHP, JavaScript e CSS) em um único arquivo, facilitando a manutenção e a portabilidade.
 
-##Instalação
+## Instalação
 
 1.
 Faça o upload do arquivo NewCalculadora.php (ou da pasta do plugin) para o diretório /wp-content/plugins/.
@@ -19,7 +19,7 @@ Customização: Edite o código dentro de NewCalculadora.php para ajustar a lóg
 
 
 
-##2. Descrição para a Empresa 
+## 2. Descrição para a Empresa 
 
 Solução "Calculadora de Lead (Versão Unificada)": Acelerando a Qualificação de Clientes
 
